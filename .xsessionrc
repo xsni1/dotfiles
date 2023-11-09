@@ -1,0 +1,1 @@
+xinput set-prop "pointer:Logitech G Pro " "libinput Accel Profile Enabled" 0 1
